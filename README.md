@@ -10,7 +10,7 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 There were 8 programming exercises for the course covering the following topics:
 
-Exercise 1 - Multivariable Linear Regression
+Exercise 1 - Linear Regression
 
 Exercise 2 - Regularization
 
