@@ -18,7 +18,7 @@ Exercise 3 - Multi-class Classification and Neural Networks
 
 Exercise 4 - Neural Networks Learning
 
-Exercise 5 - Application - Bias and Variance
+Exercise 5 - Regularized Linear Regression and Bias v.s. Variance
 
 Exercise 6 - Support Vector Machines and Kernels
 
