@@ -1,4 +1,4 @@
-Objectives:
+## Objectives:
 - Logistic Regression
 - Regularized logistic regression
 
