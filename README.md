@@ -20,8 +20,8 @@ Exercise 4 - Neural Networks Learning
 
 Exercise 5 - Regularized Linear Regression and Bias v.s. Variance
 
-Exercise 6 - Support Vector Machines and Kernels
+Exercise 6 - Support Vector Machines
 
-Exercise 7 - Dimensionality Reduction - K-Means Clustering and PCA
+Exercise 7 - K-means Clustering and Principal Component Analysis
 
 Exercise 8 - Anomaly Detection and Recommender Systems
