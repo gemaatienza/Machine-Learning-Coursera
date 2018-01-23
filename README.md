@@ -12,7 +12,7 @@ There were 8 programming exercises for the course covering the following topics:
 
 Exercise 1 - Linear Regression
 
-Exercise 2 - Regularization
+Exercise 2 - Logistic Regression
 
 Exercise 3 - Neural Network Representation
 
