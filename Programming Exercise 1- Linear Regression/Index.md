@@ -1,4 +1,4 @@
-Objectives:
+## Objectives:
 - Linear regression with one variable
 - Multivariate Linear Regression
 
